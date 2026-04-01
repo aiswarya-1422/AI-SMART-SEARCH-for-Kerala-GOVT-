@@ -3,7 +3,7 @@ AI assistance in Kerala finance department files
 # Kersla Finance Dept — Smart Circh
 
 ## 📘 Project Overview
-**Kersla Finance Dept — Smart Circh** is an AI-driven finance toolkit designed for the finance department of Kersla. The system automates transaction classification, budget forecasting, anomaly/fraud detection, and generates actionable finance insights through dashboards and reports. It aims to reduce manual effort, increase accuracy, and speed decision-making across financial workflows.
+**Kerala Finance Dept — Smart search** is an AI-driven finance toolkit designed for the finance department of Kersla. The system automates transaction classification, budget forecasting, anomaly/fraud detection, and generates actionable finance insights through dashboards and reports. It aims to reduce manual effort, increase accuracy, and speed decision-making across financial workflows.
 
 ---
 
